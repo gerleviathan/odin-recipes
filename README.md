@@ -1,1 +1,2 @@
 # odin-recipes
+Hi! My name is Denys and I am living in Ukraine. Recently I have started my new career path as Full Stack Web-Developer. You are currently reading the readme file for my first project. Have a good day!
