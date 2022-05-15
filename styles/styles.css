@@ -1,7 +1,8 @@
 button {
     background-color: lightcoral;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 18px;
+    text-align: center;
 }
 
 h1 {
@@ -12,7 +13,7 @@ h1 {
 
 h2 {
     text-align: center;
-    color: cyan;
+    color: yellow;
     background-color: black;
 
 
@@ -29,6 +30,20 @@ img {
 }
 
 .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.bottom-button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.top-button-index {
     display: block;
     margin-left: auto;
     margin-right: auto;
